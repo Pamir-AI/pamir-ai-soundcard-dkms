@@ -1,3 +1,11 @@
+pamir-ai-soundcard-dkms (2.0.0) unstable; urgency=medium
+
+  [ utsavbalar1231 ]
+  * pamir-ai-i2c-sound-main: Fix input gain control register mapping overlap
+  * refactor(debian): update for modern debian packaging
+
+ -- PamirAI Incorporated <support@pamir.ai>  Fri, 05 Sep 2025 08:56:32 +0000
+
 pamir-ai-soundcard-dkms (1.0.0-3) unstable; urgency=medium
 
   [ utsavbalar1231 ]
